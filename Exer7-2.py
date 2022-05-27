@@ -47,7 +47,7 @@ def gerarhash():
 
 
 janela = Tk()
-janela.title("Exercicio 7")
+janela.title("Exercicio 7 - 2")
 janela.minsize(700,180)
 label1 = Label(janela,text="Arquivo:")
 label1.place(x=20,y=20)
